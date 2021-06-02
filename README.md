@@ -1,2 +1,2 @@
 # PHP MySQL - Simple Search Engine
-A quick and simple code to understand searching using php and mysql
+Modified search script to look for first and last name in MySQL database.
